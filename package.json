@@ -1,0 +1,33 @@
+{
+  "name": "from-classname",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/from-classname.git"
+  },
+  "keywords": ["classnames", "react", "component", "element"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/from-classname/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/from-classname#readme",
+  "peerDependencies": {
+    "react": "15.x.x || 16.x.x"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5"
+  }
+}
